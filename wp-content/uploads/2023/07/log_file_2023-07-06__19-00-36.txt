@@ -1,0 +1,97 @@
+
+---下载的文件---
+导入文件：Shoptimizer Demo Data已成功下载！
+初始最大执行时间= 120
+文件信息：
+网站网址 = https://bedbathnbeyond.shop
+数据文件 = /home/customer/www/bedbathnbeyond.shop/public_html/wp-content/uploads/2023/07/demo-content-import-file_2023-07-06__19-00-36.xml
+小工具文件 = /home/customer/www/bedbathnbeyond.shop/public_html/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-06__19-00-36.json
+自定义文件 = 未定义!
+Redux文件：
+未定义!
+
+---ocdi/before_content_import---
+
+
+---正在导入小工具---
+Sidebar : 
+
+产品类别 - Product categories - 小工具已存在
+按属性筛选产品 - Filter by size - 小工具已存在
+按属性筛选产品 - Filter by color - 小工具已存在
+按价格筛选产品 - Filter by price - 小工具已存在
+按评级划分的产品列表 - Top rated products - 小工具已存在
+产品标签云 - Tags - 小工具已存在
+
+Sidebar Posts : 
+
+文本 - 无标题 - 小工具已存在
+归档 - 无标题 - 小工具已存在
+分类 - 无标题 - 小工具已存在
+标签云 - 无标题 - 小工具已存在
+
+Sidebar Pages : 
+
+近期文章 - 无标题 - 小工具已存在
+其他操作 - 无标题 - 小工具已存在
+标签云 - 无标题 - 小工具已存在
+
+Below Header : 
+
+文本 - 无标题 - 小工具已存在
+
+Top Bar Left : 
+
+文本 - 无标题 - 小工具已存在
+
+Top Bar Center : 
+
+文本 - 无标题 - 小工具已存在
+
+Top Bar Right : 
+
+自定义HTML - 无标题 - 小工具已存在
+
+Single Product Custom Area : 
+
+文本 - 无标题 - 小工具已存在
+
+Floating Button Modal Content : 
+
+文本 - 无标题 - 小工具已存在
+
+Cart Custom Area : 
+
+文本 - 无标题 - 小工具已存在
+
+Checkout Custom Area : 
+
+文本 - 无标题 - 小工具已存在
+
+Below Content : 
+
+自定义HTML - Free Worldwide shipping - 小工具已存在
+自定义HTML - Easy 30 days returns - 小工具已存在
+自定义HTML - International Warranty - 小工具已存在
+自定义HTML - 100% Secure Checkout - 小工具已存在
+
+Footer : 
+
+文本 - About - 小工具已存在
+文本 - Help - 小工具已存在
+文本 - Follow - 小工具已存在
+文本 - Over 1,000 5-star reviews - 小工具已存在
+
+Copyright : 
+
+文本 - 无标题 - 小工具已存在
+文本 - 无标题 - 小工具已存在
+
+Mobile Extra : 
+
+文本 - 无标题 - 小工具已存在
+
+
+
+---ocdi/after_import---
+Shoptimizer demo content imported!
