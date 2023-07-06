@@ -1,0 +1,97 @@
+
+---Downloaded files---
+The import files for: Shoptimizer Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://bedbathnbeyond.shop
+Data file = /home/customer/www/bedbathnbeyond.shop/public_html/wp-content/uploads/2023/07/demo-content-import-file_2023-07-06__08-10-51.xml
+Widget file = /home/customer/www/bedbathnbeyond.shop/public_html/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-06__08-10-51.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Product Categories - Product categories - Widget already exists
+Filter Products by Attribute - Filter by size - Widget already exists
+Filter Products by Attribute - Filter by color - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Products by Rating list - Top rated products - Widget already exists
+Product Tag Cloud - Tags - Widget already exists
+
+Sidebar Posts : 
+
+Text - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Sidebar Pages : 
+
+Recent Posts - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Below Header : 
+
+Text - No Title - Widget already exists
+
+Top Bar Left : 
+
+Text - No Title - Widget already exists
+
+Top Bar Center : 
+
+Text - No Title - Widget already exists
+
+Top Bar Right : 
+
+Custom HTML - No Title - Widget already exists
+
+Single Product Custom Area : 
+
+Text - No Title - Widget already exists
+
+Floating Button Modal Content : 
+
+Text - No Title - Widget already exists
+
+Cart Custom Area : 
+
+Text - No Title - Widget already exists
+
+Checkout Custom Area : 
+
+Text - No Title - Widget already exists
+
+Below Content : 
+
+Custom HTML - Free Worldwide shipping - Widget already exists
+Custom HTML - Easy 30 days returns - Widget already exists
+Custom HTML - International Warranty - Widget already exists
+Custom HTML - 100% Secure Checkout - Widget already exists
+
+Footer : 
+
+Text - About - Widget already exists
+Text - Help - Widget already exists
+Text - Follow - Widget already exists
+Text - Over 1,000 5-star reviews - Widget already exists
+
+Copyright : 
+
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Mobile Extra : 
+
+Text - No Title - Widget already exists
+
+
+
+---ocdi/after_import---
+Shoptimizer demo content imported!
